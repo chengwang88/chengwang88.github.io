@@ -1,0 +1,29 @@
+<!-- <header class="site-header"> -->
+
+  <div class="header">
+
+    <h1>Cheng Wang</h1>
+
+
+    <div class='nav'>
+
+      <div class="trigger">
+        <!-- {{ site.title }} instead of blog -->
+
+        <a class="page-link" href="{{ site.baseurl }}/">About</a> 
+          {% for page in site.pages %} {% if page.title %} ·
+        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
+          {{ page.title }}</a> {% endif %} {% endfor %}
+
+
+      </div>
+    </div>
+
+      <hr>
+
+  </div>
+
+
+
+
+<!-- </header> -->

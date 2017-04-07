@@ -1,0 +1,24 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
+
+<!--
+<div class="header-bar">
+  <h2>Blogs</h2>
+  <hr>
+</div>
+-->
+
+<ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
+        <p>{{ post.description }}</p>
+
+        <hr>
+      </li>
+    {% endfor %}
+</ul>
