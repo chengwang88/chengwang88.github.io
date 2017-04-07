@@ -42,7 +42,6 @@ layout: default
 				</p>
         
 
-</div>
 
 
 
@@ -60,3 +59,4 @@ layout: default
 
 <br/>
 
+</div>

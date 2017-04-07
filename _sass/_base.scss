@@ -7,7 +7,9 @@ dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
 }
-
+html{
+  height: 100%;
+}
 
 
 /** Variables **********************************************/
@@ -53,8 +55,8 @@ body {
     font-weight: 100;
     color: $text-color;
     background-color: $background-color;
-  margin-left:20px;
-  margin-right:20px;
+  //margin-left:20px;
+  //margin-right:20px;
     //-webkit-text-size-adjust: 100%;
 }
 
@@ -203,7 +205,7 @@ pre {
 /**
  * Wrapper
  */ 
-
+/**
 .wrapper {
     max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
     max-width:         calc(800px - (#{$horizontal-spacing-unit} * 2));
@@ -221,7 +223,7 @@ pre {
     }
 }
 
-
+**/
 
 
 /**

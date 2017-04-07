@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Projects
 permalink: /projects/
 ---
@@ -7,7 +7,6 @@ permalink: /projects/
 <div class="row">
         <h3 style="font-size:20px;font-family:Belleza;margin-top:20px;margin-bottom:10px;font-weight:600; color:#009926;">Research Projects</h3>
 
-</div>
 
   <div id="project-content">
       <div id="project-text">
@@ -75,13 +74,11 @@ permalink: /projects/
 
 
 
-<div class="row">
         <h3 style="font-size:20px;font-family:Belleza;margin-top:20px;margin-bottom:10px;font-weight:600;color:#009926;">Other Projects</h3>
         <p>
         Projects of data analysis, data visualization, and machine learning from courses are listed below.
 
         </p>
-</div>
 
 
   <div id="project-content">
@@ -202,3 +199,4 @@ permalink: /projects/
 <br>
 
 
+</div>
