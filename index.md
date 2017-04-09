@@ -12,10 +12,10 @@ layout: default
             </p>
 
             <p>
-            Previously, I have developed new computational tools to understand protein-protein interactions using <span class="highlight">molecular modelling</span>, <span class="highlight">data analytics</span> during my Ph.D. study. 
+            Previously, I have developed new computational tools to understand protein-protein interactions using <span class="highlight">machine learning</span> and <span class="highlight">molecular modeling</span> during my Ph.D. study. 
             
             I am interested in using <span class="highlight">data mining</span>, 
-            <span class="highlight">data visualization</span> & <span class="highlight">machine learning</span> to understand and to solve problems.
+            <span class="highlight">data visualization</span>, and <span class="highlight">machine learning</span> to understand and to solve problems.
 
          </p>   
         

@@ -25,7 +25,7 @@ permalink: /projects/
       </div>
       
         <a href="http://www.nyu.edu/projects/yzhang/DeltaVina/" target="_blank">
-        <img class="thumbnail" src="/img/deltavina_show.png"> 
+        <img class="thumbnail" src="/img/deltavina_show.gif"> 
         </a>
     </div>
 
@@ -63,7 +63,7 @@ permalink: /projects/
       </div>
       
         
-        <img class="thumbnail" src="/img/project_DTM.png"> 
+        <img class="thumbnail" src="/img/project_DTM.gif"> 
     </div>
 
 
@@ -98,7 +98,7 @@ permalink: /projects/
 
       </div>
         <a href="http://chengwang.shinyapps.io/PredictNextWord/" target="_blank">
-        <img class="thumbnail" src="/img/WordCloud.png"> 
+        <img class="thumbnail" src="/img/WordCloud.gif"> 
         </a>
     </div>
 
@@ -115,7 +115,7 @@ permalink: /projects/
             </p>
       </div>
         <a href="http://chengwang.shinyapps.io/RFapp/" target="_blank">
-        <img class="thumbnail" src="/img/project_RFDemo.png"> 
+        <img class="thumbnail" src="/img/project_RFDemo.gif"> 
         </a>
     </div>
 
@@ -163,7 +163,7 @@ permalink: /projects/
       </div>
       
         <a href="http://chengwang88.github.io/DAND-P4/index.html" target="_blank">
-        <img class="thumbnail" src="/img/RedWind_Acidity.png"> 
+        <img class="thumbnail" src="/img/RedWind_Acidity.gif"> 
         </a>
     </div>
 
@@ -189,7 +189,7 @@ permalink: /projects/
       </div>
       
         <a href="http://nbviewer.jupyter.org/github/chengwang88/Artificial_Intelligence_Projects/blob/master/p4_recognizer/asl_recognizer.ipynb" target="_blank">
-        <img class="thumbnail" src="/img/HMM_Gaussian.png"> 
+        <img class="thumbnail" src="/img/HMM_Gaussian.gif"> 
         </a>
     </div>
 
