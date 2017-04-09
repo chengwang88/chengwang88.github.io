@@ -38,7 +38,9 @@ body {
   line-height: 32px;
   font-weight: 100;
   color: #333;
-  background-color: #fdfdfd; }
+  background-color: #fdfdfd;
+  margin-left: 20px;
+  margin-right: 20px; }
 
 p, ul, ol {
   font-size: 16px;
