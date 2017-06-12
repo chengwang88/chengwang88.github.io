@@ -20,7 +20,7 @@ layout: default
          </p>   
 
             <p>
-            My projects and software can be found in<span class="highlight"> <a href='https://chengwang88.github.io/projects/'> Project </a> </span> page.
+            My projects and software can be found in<span class="highlight"> <a href='https://chengwang88.github.io/projects/'> Projects </a> </span> page.
             </p>
         
         <p style="font-size:20px;font-family:Belleza;margin-top:20px;margin-bottom:10px;font-weight:600">Publications</p>
