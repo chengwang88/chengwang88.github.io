@@ -8,7 +8,7 @@ layout: default
         <p>
 
             Hey! I am currently a postdoc research scientist in Prof. Yingkai Zhang's lab at New York Univeristy. 
-            I work on the development of <span class="highlight">deep learning models</span> to aid drug design. 
+            I work on the development of <span class="highlight">machine learning models including random forest, gradient boost machine, and deep learning</span> to aid drug design. 
             </p>
 
             <p>
@@ -18,6 +18,10 @@ layout: default
             <span class="highlight">data visualization</span>, and <span class="highlight">machine learning</span> to understand and solve problems.
 
          </p>   
+
+            <p>
+            My projects and software can be found in<span class="highlight"> <a href='https://chengwang88.github.io/projects/'> Project </a> </span> page.
+            </p>
         
         <p style="font-size:20px;font-family:Belleza;margin-top:20px;margin-bottom:10px;font-weight:600">Publications</p>
         
