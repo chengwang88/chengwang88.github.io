@@ -8,7 +8,7 @@ layout: default
         <p>
 
             Hey! I am currently a postdoc research scientist in Prof. Yingkai Zhang's lab at New York Univeristy. 
-            I work on the development of <span class="highlight">machine learning models including random forest, gradient boost machine, and deep learning</span> to aid drug design. 
+            I work on the development of <span class="highlight">machine learning models </span> including random forest, gradient boost machine, and deep learning to aid drug design. 
             </p>
 
             <p>
